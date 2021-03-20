@@ -1,7 +1,8 @@
 # :wave: ! HOLA A TODOS!  
 
 ### Soy Jhonny Osorio, docente de matemáticas y física de la Fundación Universidad de América.
-<br />   
+<br />  
+
 #
 ### 👨🏻‍💻 &nbsp;About Me
 
