@@ -10,9 +10,9 @@
 - :dancers: Busco coloborar en proyectos relacionados con machine learning y deep learning.
 - 👀 Estoy interesado en el lenguaje de programación python.
 - 🌱 Actualmnete estoy implementando **python en la enseñanza de las matemáticas**.
-- 📫 Pueden contactarme en: *osoriojohnny1986@gmail.com*
+- 📫 Pueden contactarme en: *osoriojohnny1986@gmail.com*.
 
-br/>
+<br/>
 
 #
 
