@@ -5,8 +5,8 @@
 
 ### 👨🏻‍💻 &nbsp; Acerca de mi:
 
-- :telescope: Me gusta explorar nuevas metodologías para la enseñansa de la matematicas.
-- :dancers: Busco coloborar en proyectos relacionados con machine learning y deep learning.
+- :telescope: Me gusta explorar nuevas metodologías para la enseñansa de la matemáticas.
+- :dancers: Busco coloborar en proyectos relacionados con **machine learning*.
 - 👀 Estoy interesado en el lenguaje de programación python.
 - 🌱 Actualmnete estoy implementando **python en la enseñanza de las matemáticas**.
 - 📫 Pueden contactarme en: *osoriojohnny1986@gmail.com*.
@@ -31,6 +31,7 @@
 
 - <a href="https://www.linkedin.com/in/johnny-osorio-gallego-046b401b8/"><img src="https://img.shields.io/badge/-Jhonny%20Osorio%20Gallego-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:osoriojohnny1986@gmil.com"><img src="https://img.shields.io/badge/-osoriojohnny1986@gmil.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:jhonny.osorio@profesores.uamerica.edu.co"><img src="https://img.shields.io/badge/-osoriojohnny1986@gmil.com-2F4F4F?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/osoriojohnny/"><img src="https://img.shields.io/badge/-@osoriojohnny-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/johnny.o.gallego"><img src="https://img.shields.io/badge/-@johnny.o.gallego-0a6daa?style=flat&logo=Facebook&logoColor=white"/></a>
 
