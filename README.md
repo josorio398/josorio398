@@ -30,8 +30,8 @@
 <p align="center">
 
 - <a href="https://www.linkedin.com/in/johnny-osorio-gallego-046b401b8/"><img src="https://img.shields.io/badge/-Jhonny%20Osorio%20Gallego-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:osoriojohnny1986@gmil.com"><img src="https://img.shields.io/badge/-osoriojohnny1986@gmil.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:jhonny.osorio@profesores.uamerica.edu.co"><img src="https://img.shields.io/badge/-osoriojohnny1986@gmil.com-2F4F4F?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:osoriojohnny1986@gmail.com"><img src="https://img.shields.io/badge/-osoriojohnny1986@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:jhonny.osorio@profesores.uamerica.edu.co"><img src="https://img.shields.io/badge/-jhonny.osorio@profesores.uamerica.edu.co-2F4F4F?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/osoriojohnny/"><img src="https://img.shields.io/badge/-@osoriojohnny-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/johnny.o.gallego"><img src="https://img.shields.io/badge/-@johnny.o.gallego-0a6daa?style=flat&logo=Facebook&logoColor=white"/></a>
 
