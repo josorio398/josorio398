@@ -1,7 +1,8 @@
 # Hola  :wave: Soy Jhonny!  
 
-### Docente apacionado por las matemáticas mediadas con el uso de tecnología.
+### Docente apacionado por las matemáticas mediadas con tecnología.
 <br />  
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 - :telescope: Me gusta explorar nuevas metodologías para la enseñansa de la matematicas.
