@@ -1,6 +1,6 @@
-# :wave: ! HOLA A TODOS!  
+# Hola  :wave: Soy Jhonny!  
 
-### Soy Jhonny Osorio, docente de matemáticas y física de la Fundación Universidad de América.
+## Docente apacionado por las matemáticas mediadas con el uso de tecnología.
 <br />  
 
 #
