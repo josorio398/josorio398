@@ -24,7 +24,18 @@
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
 <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <br />
+#
 
+###  :speech_balloon: Contactame:
+<br />
+
+<p align="center">
+
+<a href="https://linkedin.com/in/erikaosgue"><img src="https://img.shields.io/badge/-Erika%20Osorio%20Guerrero-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:erikaosgue.dev@gmail.com"><img src="https://img.shields.io/badge/-erikaosgue.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/erikaosgue"><img src="https://img.shields.io/badge/-@erikaosgue-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/erikaosgue"><img src="https://img.shields.io/badge/-@erikaosgue-0a6daa?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://erikaosgue.medium.com/"><img src="https://img.shields.io/badge/-erikaosgue.Medium-05122A?style=flat&logo=medium&logoColor=white"/></a>
 <!---
 josorio398/josorio398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
