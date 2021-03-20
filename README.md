@@ -12,6 +12,15 @@
 - 🌱 Actualmnete estoy implementando **python en la enseñanza de las matemáticas**.
 - 📫 Pueden contactarme en: *osoriojohnny1986@gmail.com*
 
+br/>
+
+#
+
+
+### 🛠 &nbsp;Lenguajes 
+<br />
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
 <!---
 josorio398/josorio398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
