@@ -3,7 +3,7 @@
 ### Docente apacionado por las matemáticas mediadas con tecnología.
 <br />  
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp; Acerca de mi:
 
 - :telescope: Me gusta explorar nuevas metodologías para la enseñansa de la matematicas.
 - :dancers: Busco coloborar en proyectos relacionados con machine learning y deep learning.
