@@ -20,6 +20,8 @@ br/>
 ### 🛠 &nbsp;Lenguajes 
 <br />
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+
 
 <!---
 josorio398/josorio398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
