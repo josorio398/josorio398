@@ -1,4 +1,4 @@
-# Hola  :wave: Soy Jhonny!  
+# Hola  :wave: soy Jhonny!  
 
 ### Docente apacionado por las matemáticas mediadas con tecnología.
 <br />  
