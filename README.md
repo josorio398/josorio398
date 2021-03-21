@@ -1,6 +1,6 @@
 # Hola  :wave: soy Jhonny!  
 
-## Docente apasionado por la enseñanza y aprendizaje de las matemáticas mediadas con tecnología.
+## Docente apasionado por la enseñanza y aprendizaje de las matemáticas mediadas con el uso de tecnología.
 <br />  
 
 ## 👨🏻‍💻 &nbsp; Acerca de mi:
