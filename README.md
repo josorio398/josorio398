@@ -6,7 +6,7 @@
 ## 👨🏻‍💻 &nbsp; Acerca de mi:
 
 - :telescope: Me gusta explorar nuevas metodologías para la enseñansa de la matemáticas.
-- :dancers: Busco coloborar en proyectos relacionados con **machine learning*.
+- :dancers: Busco coloborar en proyectos relacionados con *machine learning*.
 - 👀 Estoy interesado en el lenguaje de programación python.
 - 🌱 Actualmnete estoy implementando **python en la enseñanza de las matemáticas**.
 
